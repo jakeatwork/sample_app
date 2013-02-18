@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 gem 'rails', '3.2.12'
 gem 'pg'
 gem 'childprocess', '0.3.6'
+gem 'bootstrap-sass', '2.1'
 
 group :development, :test do
   gem 'rspec-rails', '2.11.0'
